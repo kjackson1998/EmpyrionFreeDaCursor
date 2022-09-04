@@ -8,7 +8,7 @@ None. Ridiculously simple mod.
 
 # Installation
 
-Download one of the releases here, and unzip into your mods directory:
+[Download the latest release here](https://github.com/kjackson1998/EmpyrionFreeDaCursor/releases), and unzip into your mods directory:
 * %ProgramFiles(x86)%\Steam\steamapps\common\Empyrion - Galactic Survival\Content\Mods
 
 You should have a folder *FreeDaCursor* in the above directory and inside the *FreeDaCursor* folder should be the .dll and the .yaml files.
