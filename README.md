@@ -1,6 +1,6 @@
 # [Empyrion](https://empyriongame.com/) Free Da Cursor
 
-[Empyrion](https://empyriongame.com/) confines the cursor to the window even when the cursor is visible (not being used for mouselook/steering). Unless the game had edge panning, which it does not seem to that I can tell, confing the mouse cursor is more an annoyance than useful. This frees the cursor from this evil tyranny.
+[Empyrion](https://empyriongame.com/) confines the cursor to the window even when the cursor is visible (not being used for mouselook/steering). Unless the game had edge panning, which it does not seem to that I can tell, confining the mouse cursor is more an annoyance than useful. This frees the cursor from this evil tyranny.
 
 # Prerequisites
 
